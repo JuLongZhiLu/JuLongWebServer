@@ -1,4 +1,7 @@
 # JuLongWebServer
+
+[中文 ](README_zh.md) | [English](README_en.md)
+
 一个用C++来实现的Web服务器
 
 ## 如何使用？
