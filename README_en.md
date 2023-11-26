@@ -4,6 +4,9 @@
 
 A web server implemented in C++ 
 
+## Version
+0.0.1
+
 ## How to use it？
 1、To run the program, the port number needs to be provided as an argument.
 
